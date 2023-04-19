@@ -1,5 +1,5 @@
 {
-  "name": "public_mdi_sdk_test",
+  "name": "@ranger-sardine/public_mdi_sdk_test",
   "version": "1.0.0",
   "description": "MDI Javascript SDK for device intelligence",
   "main": "dist/index.cjs.js",
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/sardine-sdk/public_mdi_sdk_test/issues"
   },
-  "homepage": "https://github.com/sardine-sdk/sardine-web-sdk#readme",
+  "homepage": "https://github.com/sardine-sdk/public_mdi_sdk_test#readme",
   "dependencies": {
     "@sardine-ai/web-sdk": "^1.0.3",
     "source-map-loader": "^4.0.1",
