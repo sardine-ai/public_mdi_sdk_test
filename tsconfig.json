@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "jsx": "react-jsx",
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "esModuleInterop": false,
+        "isolatedModules": true,
+        "lib": [
+            "DOM",
+            "DOM.Iterable",
+            "ESNext"
+        ],
+        "declaration": true,
+        "outDir": "./dist",
+        "strict": true
+    },
+    "include": [
+        "src"
+    ],
+}

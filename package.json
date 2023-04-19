@@ -1,0 +1,44 @@
+{
+  "name": "public_mdi_sdk_test",
+  "version": "1.0.0",
+  "description": "MDI Javascript SDK for device intelligence",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "run-p build:*",
+    "build:scripts": "vite build",
+    "build:types": "tsc --emitDeclarationOnly",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sardine-sdk/sardine-web-sdk.git"
+  },
+  "keywords": [
+    "MDI",
+    "web-sdk",
+    "js-package",
+    "js-sdk"
+  ],
+  "author": "Sardine AI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sardine-sdk/sardine-web-sdk/issues"
+  },
+  "homepage": "https://github.com/sardine-sdk/sardine-web-sdk#readme",
+  "dependencies": {
+    "@sardine-ai/web-sdk": "^1.0.3",
+    "source-map-loader": "^4.0.1",
+    "ts-loader": "^9.4.1"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.4",
+    "vite": "^3.1.8"
+  },
+  "files": [
+    "dist"
+  ]
+}
