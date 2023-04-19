@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sardine-sdk/sardine-web-sdk.git"
+    "url": "git+https://github.com/sardine-sdk/public_mdi_sdk_test.git"
   },
   "keywords": [
     "MDI",
@@ -24,7 +24,7 @@
   "author": "Sardine AI",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sardine-sdk/sardine-web-sdk/issues"
+    "url": "https://github.com/sardine-sdk/public_mdi_sdk_test/issues"
   },
   "homepage": "https://github.com/sardine-sdk/sardine-web-sdk#readme",
   "dependencies": {
