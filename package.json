@@ -1,6 +1,6 @@
 {
   "name": "@ranger-sardine/public_mdi_sdk_test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MDI Javascript SDK for device intelligence",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",

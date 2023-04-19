@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-npm install public_mdi_sdk_test
+npm install @ranger-sardine/public_mdi_sdk_test
 OR
-yarn add public_mdi_sdk_test
+yarn add @ranger-sardine/public_mdi_sdk_test
 ```
 
 ## Usage
